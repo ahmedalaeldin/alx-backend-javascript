@@ -1,6 +1,6 @@
 const hasValuesFromArray = (set, array) => {
   for (const item of array) {
-    if (!set.has(it[2;2Rem)) {
+    if (!set.has(item)) {
       return false;
     }
   }
